@@ -100,7 +100,6 @@ const TimerAndButton = () => {
     reset(nowDate, false);
     setwordsCalc("");
     setInputText("");
-    setStartBtnDisable(false);
     setStoptBtnDisable(false);
   };
 
