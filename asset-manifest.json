@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-words-per-minute/static/css/main.c1fdfcd8.css",
+    "main.js": "/react-words-per-minute/static/js/main.d9b435b9.js",
+    "index.html": "/react-words-per-minute/index.html",
+    "main.c1fdfcd8.css.map": "/react-words-per-minute/static/css/main.c1fdfcd8.css.map",
+    "main.d9b435b9.js.map": "/react-words-per-minute/static/js/main.d9b435b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1fdfcd8.css",
+    "static/js/main.d9b435b9.js"
+  ]
+}
