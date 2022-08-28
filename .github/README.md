@@ -3,7 +3,7 @@
 1 分間に読めた英単語数(WPM)を計測してくれるアプリです。<br>
 前に JavaScript で作成したものを React で作り直しました。
 
-↓こちらからどうぞ（PC専用です）
+↓こちらからどうぞ（PC専用です・・）<br>
 https://yamiko-333.github.io/react-words-per-minute/
 
 <br>
